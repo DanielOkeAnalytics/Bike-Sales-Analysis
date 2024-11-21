@@ -1,4 +1,4 @@
-CAR SALES DATA ANALYSIS
+CAR SALES ANALYSIS
 
 This project explores a dataset of car sales to uncover trends in sales volume, pricing, and manufacturer performance. Using Python and Exploratory Data Analysis (EDA), the study provides actionable insights to help manufacturers and dealerships improve sales strategies.
 
