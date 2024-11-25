@@ -1,6 +1,6 @@
 CAR SALES ANALYSIS
 
-This project explores a dataset of car sales to uncover trends in sales volume, pricing, and manufacturer performance. Using Python and Exploratory Data Analysis (EDA), the study provides actionable insights to help manufacturers and dealerships improve sales strategies.
+This project focuses on analyzing a bike sales dataset to uncover key trends in sales volume, pricing, and brand performance. Through Exploratory Data Analysis (EDA), it offers valuable insights to help manufacturers and dealerships optimize their strategies, enhance customer appeal, and achieve growth in the dynamic bike industry.
 
 OBJECTIVE
 
