@@ -1,4 +1,4 @@
-CAR SALES ANALYSIS
+BIKE SALES ANALYSIS
 
 This project focuses on analyzing a bike sales dataset to uncover key trends in sales volume, pricing, and brand performance. Through Exploratory Data Analysis (EDA), it offers valuable insights to help manufacturers and dealerships optimize their strategies, enhance customer appeal, and achieve growth in the dynamic bike industry.
 
@@ -10,7 +10,7 @@ OBJECTIVE
 
 DATASET
 
-Source: Kaggle Car_sales.csv (157 rows, 16 columns).  
+Source: Kaggle Bike_sales.csv (157 rows, 16 columns).  
 Key Attributes:  
 1. Sales Volume (`Sales_in_thousands`)  
 2. Price (`Price_in_thousands`)  
